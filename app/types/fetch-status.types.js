@@ -1,0 +1,15 @@
+export const FOLLOW_USER_REQUEST = 'follow_user_request';
+export const FOLLOW_USER_FAILURE = 'follow_user_failure';
+export const FOLLOW_USER_SUCCESS = 'follow_user_success';
+export const LOAD_FOLLOWING_STATUS_REQUEST = 'load_following_status_request';
+export const LOAD_FOLLOWING_STATUS_FAILURE = 'load_following_status_failure';
+export const LOAD_FOLLOWING_STATUS_SUCCESS = 'load_following_status_success';
+export const UNFOLLOW_USER_REQUEST = 'unfollow_user_request';
+export const UNFOLLOW_USER_SUCCESS = 'unfollow_user_success';
+export const UNFOLLOW_USER_FAILURE = 'unfollow_user_failure';
+export const FETCH_FOLLOWERS_SUCCESS = 'fetch_followers_success';
+export const FETCH_FOLLOWING_SUCCESS = 'fetch_following_success';
+export const FETCH_FOLLOWERS_FAILURE = 'FETCH_FOLLOWERS_FAILURE';
+export const FETCH_FOLLOWING_FAILURE = 'FETCH_FOLLOWING_FAILURE';
+export const FOLLOW_REQUEST_PENDING = 'FOLLOW_USER_REQUEST_PENDING';
+export const UNFOLLOW_REQUEST_PENDING = 'UNFOLLOW_USER_REQUEST_PENDING';

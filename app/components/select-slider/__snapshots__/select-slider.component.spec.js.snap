@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SelectSlider /> displays a list of <SelectSliderItem> from options passed in 1`] = `
+<View>
+  <SelectSliderOption
+    option="option1"
+    selectPositionX={0}
+    selected={false}
+  />
+  <SelectSliderOption
+    option="option2"
+    selectPositionX={0}
+    selected={false}
+  />
+</View>
+`;
+
+exports[`<SelectSlider /> takes as input a list of items 1`] = `<View />`;

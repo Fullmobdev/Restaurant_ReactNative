@@ -1,0 +1,2 @@
+export const DEFAULT_PHOTO_DIMENSIONS = 1000;
+export const DEFAULT_RADIUS = 1600;
