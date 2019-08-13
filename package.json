@@ -94,7 +94,7 @@
     "eslint-config-rallycoding": "^3.2.0",
     "eslint-plugin-react": "^7.4.0",
     "jest": "^20.0.4",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.1",
     "react-native-elements": "^0.15.0",
     "react-test-renderer": "16.0.0-alpha.12",
     "redux-devtools-extension": "^2.13.5",
