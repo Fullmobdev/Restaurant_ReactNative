@@ -28,7 +28,7 @@
     "haversine": "^1.1.0",
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.13",
-    "merge": "^1.2.0",
+    "merge": "^1.2.1",
     "moment": "^2.20.1",
     "node-fetch": "^2.0.0",
     "numeral": "^2.0.6",
